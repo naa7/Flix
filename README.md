@@ -1,6 +1,15 @@
 # Flixster
 Flixster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+
+- [x] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+- [x] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
+
 ---
 
 ## Flixster Part 1
